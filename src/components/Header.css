@@ -1,0 +1,9 @@
+.headerPic {
+    height: 40%;
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;}
